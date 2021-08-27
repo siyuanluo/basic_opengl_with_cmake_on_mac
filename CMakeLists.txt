@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(luo_test VERSION 0.1.0)
+project(opengl_test VERSION 0.1.0)
 
 include(CTest)
 include_directories(/usr/local/include)
