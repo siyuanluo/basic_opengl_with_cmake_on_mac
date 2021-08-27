@@ -4,6 +4,7 @@ Basic environment to make OpenGL works on MacOS with Cmake( in VSCode )
 
 
 1. Firstly, you should download GLFW/glad files and put them in your system *include/* and *lib/* folder. ( */usr/local/...* )
+[Reference](https://learnopengl.com/Getting-started/Creating-a-window)
 
 2. If you use VSCode, you should first download the Extension:
 
